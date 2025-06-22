@@ -1,0 +1,14 @@
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\bin\Debug\net9.0\SearchFunctionApp.exe
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\bin\Debug\net9.0\SearchFunctionApp.deps.json
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\bin\Debug\net9.0\SearchFunctionApp.runtimeconfig.json
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\bin\Debug\net9.0\SearchFunctionApp.dll
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\bin\Debug\net9.0\SearchFunctionApp.pdb
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\obj\Debug\net9.0\SearchFunctionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\obj\Debug\net9.0\SearchFunctionApp.AssemblyInfoInputs.cache
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\obj\Debug\net9.0\SearchFunctionApp.AssemblyInfo.cs
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\obj\Debug\net9.0\SearchFunctionApp.csproj.CoreCompileInputs.cache
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\obj\Debug\net9.0\SearchFunctionApp.dll
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\obj\Debug\net9.0\refint\SearchFunctionApp.dll
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\obj\Debug\net9.0\SearchFunctionApp.pdb
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\obj\Debug\net9.0\SearchFunctionApp.genruntimeconfig.cache
+D:\Downloads\hands on exer\E-commerce Search Function\SearchFunctionApp\obj\Debug\net9.0\ref\SearchFunctionApp.dll

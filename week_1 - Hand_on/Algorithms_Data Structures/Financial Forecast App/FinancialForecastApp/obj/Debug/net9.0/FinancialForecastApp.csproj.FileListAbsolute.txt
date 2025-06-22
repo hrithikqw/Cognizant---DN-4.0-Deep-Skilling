@@ -1,0 +1,14 @@
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\bin\Debug\net9.0\FinancialForecastApp.exe
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\bin\Debug\net9.0\FinancialForecastApp.deps.json
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\bin\Debug\net9.0\FinancialForecastApp.runtimeconfig.json
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\bin\Debug\net9.0\FinancialForecastApp.dll
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\bin\Debug\net9.0\FinancialForecastApp.pdb
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.AssemblyInfoInputs.cache
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.AssemblyInfo.cs
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.csproj.CoreCompileInputs.cache
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.dll
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\obj\Debug\net9.0\refint\FinancialForecastApp.dll
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.pdb
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.genruntimeconfig.cache
+D:\Downloads\hands on exer\Week 1\Financial Forecast App\FinancialForecastApp\obj\Debug\net9.0\ref\FinancialForecastApp.dll

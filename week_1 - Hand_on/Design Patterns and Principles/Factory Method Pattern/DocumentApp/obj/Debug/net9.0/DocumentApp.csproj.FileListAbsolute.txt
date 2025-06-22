@@ -1,0 +1,14 @@
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\bin\Debug\net9.0\DocumentApp.exe
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\bin\Debug\net9.0\DocumentApp.deps.json
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\bin\Debug\net9.0\DocumentApp.runtimeconfig.json
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\bin\Debug\net9.0\DocumentApp.dll
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\bin\Debug\net9.0\DocumentApp.pdb
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\obj\Debug\net9.0\DocumentApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\obj\Debug\net9.0\DocumentApp.AssemblyInfoInputs.cache
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\obj\Debug\net9.0\DocumentApp.AssemblyInfo.cs
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\obj\Debug\net9.0\DocumentApp.csproj.CoreCompileInputs.cache
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\obj\Debug\net9.0\DocumentApp.dll
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\obj\Debug\net9.0\refint\DocumentApp.dll
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\obj\Debug\net9.0\DocumentApp.pdb
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\obj\Debug\net9.0\DocumentApp.genruntimeconfig.cache
+D:\Downloads\hands on exer\Factory Method Pattern\DocumentApp\obj\Debug\net9.0\ref\DocumentApp.dll

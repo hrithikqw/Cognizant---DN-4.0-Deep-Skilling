@@ -1,0 +1,14 @@
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\bin\Debug\net9.0\SingletonApp.exe
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\bin\Debug\net9.0\SingletonApp.deps.json
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\bin\Debug\net9.0\SingletonApp.runtimeconfig.json
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\bin\Debug\net9.0\SingletonApp.dll
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\bin\Debug\net9.0\SingletonApp.pdb
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\obj\Debug\net9.0\SingletonApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\obj\Debug\net9.0\SingletonApp.AssemblyInfoInputs.cache
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\obj\Debug\net9.0\SingletonApp.AssemblyInfo.cs
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\obj\Debug\net9.0\SingletonApp.csproj.CoreCompileInputs.cache
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\obj\Debug\net9.0\SingletonApp.dll
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\obj\Debug\net9.0\refint\SingletonApp.dll
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\obj\Debug\net9.0\SingletonApp.pdb
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\obj\Debug\net9.0\SingletonApp.genruntimeconfig.cache
+D:\Downloads\hands on exer\Singleton Pattern Example\SingletonApp\obj\Debug\net9.0\ref\SingletonApp.dll
